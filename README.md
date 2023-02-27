@@ -108,7 +108,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ezra Yehuwalashet**
+👤 **Ezra Yehuwalashet - Coding partner**
 
 - GitHub: [@ezraermy](https://github.com/)
 - Twitter: [@ezraermy](https://twitter.com/)
